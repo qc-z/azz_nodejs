@@ -1,0 +1,88 @@
+{
+  "name": "arpt",
+  "version": "1.2.6",
+  "apidoc": {
+    "title": "Arpt api doc",
+    "description": "Arpt basic documentation"
+  },
+  "scripts": {
+    "test": "standard --verbose | snazzy && ava"
+  },
+  "dependencies": {
+    "aliyun-oss-sign": "^0.0.2",
+    "aliyun-sdk": "^1.10.5",
+    "bcryptjs": "^2.4.3",
+    "bluebird": "^3.3.4",
+    "co": "^4.6.0",
+    "crypto": "^0.0.3",
+    "gm": "^1.23.0",
+    "jsonfile": "^2.2.3",
+    "jssha": "^2.3.1",
+    "koa": "~1.2.0",
+    "koa-body": "^1.6.0",
+    "koa-bodyparser": "^2.0.1",
+    "koa-compress": "^1.0.9",
+    "koa-cors": "^0.0.16",
+    "koa-json": "^1.1.1",
+    "koa-logger": "^1.3.0",
+    "koa-lusca": "^2.1.0",
+    "koa-passport": "^1.3.0",
+    "koa-request": "^1.0.0",
+    "koa-router": "^5.4.0",
+    "koa-router-multer": "^1.3.0",
+    "koa-serve": "^0.1.7",
+    "koa-session": "^3.3.1",
+    "koa-static": "^2.0.0",
+    "koa-xml-body": "^1.1.0",
+    "lodash": "^4.6.1",
+    "md5": "^2.2.1",
+    "mkdirp": "^0.5.1",
+    "moment": "^2.12.0",
+    "mongoose": "^4.9.8",
+    "needle": "^1.0.0",
+    "node-schedule": "^1.2.4",
+    "node-xlsx": "^0.7.4",
+    "object-assign": "^4.0.1",
+    "passport-wechat": "^2.0.4",
+    "passport-weixin": "^0.1.0",
+    "platform": "^1.3.1",
+    "query-mobile-phone-area": "^1.0.6",
+    "querystring": "^0.2.0",
+    "randomstring": "^1.1.5",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1",
+    "speakeasy": "^2.0.0",
+    "uuid": "^3.0.1",
+    "xml2js": "^0.4.17",
+    "xss": "^0.2.10"
+  },
+  "standard": {
+    "globals": [
+      "jQuery",
+      "requirejs",
+      "next",
+      "node",
+      "Handlebars",
+      "define",
+      "$"
+    ],
+    "ignore": [
+      "public/lib/**",
+      "node-modules/**",
+      "test/**",
+      "public/admin/**",
+      "public/utils/qrcode/index.js",
+      "public/utils/scrobMaster/scrobMaster.js",
+      "public/utils/datepicker/js/bootstrap-datepicker.js"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": ".git"
+  },
+  "keywords": [
+    "Arpt"
+  ],
+  "author": "Jige",
+  "license": "MIT"
+}

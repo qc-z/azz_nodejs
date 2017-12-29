@@ -1,0 +1,181 @@
+[
+    [
+        {
+        	"projectType": "1",
+            "name":"全3D塑唇型立体构建",
+            "price":36000,
+            "typeName":"meichun"
+        },
+        {	"projectType": "1",
+            "name":"淡化唇纹",
+            "price":88,
+            "typeName":"meichun"
+        }
+    ],
+    [
+        {
+        	"projectType": "2",
+            "name":"肉毒杆菌瘦鼻翼",
+            "price":8000,
+            "typeName":"shoubi"
+        },
+        {
+        	"projectType": "2",
+            "name":"线雕收鼻翼",
+            "price":27000,
+            "typeName":"shoubi"
+        },
+        {
+        	"projectType": "2",
+            "name":"玻尿酸注射收鼻翼",
+            "price":27000,
+            "typeName":"shoubi"
+        }
+    ],
+    [
+        {
+        	"projectType": "3",
+            "name":"肉毒杆菌瘦脸",
+            "price":6000,
+            "typeName":"shoulian"
+        },
+        {
+        	"projectType": "3",
+            "name":"溶脂针瘦脸",
+            "price":7000,
+            "typeName":"shoulian"
+        },
+        {
+        	"projectType": "3",
+            "name":"左旋肉碱无痕瘦脸",
+            "price":10000,
+            "typeName":"shoulian"
+        }
+    ],
+    [
+        {
+            "projectType": "4",
+            "name":"玻尿酸丰太阳穴",
+            "price":7000,
+            "typeName":"taiyangxue"
+        },
+        {
+            "projectType": "4",
+            "name":"韩式安全填充太阳穴",
+            "price":8000,
+            "typeName":"taiyangxue"
+        },
+        {
+            "projectType": "4",
+            "name":"3D智能线雕丰太阳穴3",
+            "price":9000,
+            "typeName":"taiyangxue"
+        }
+    ],
+    [
+        {
+        	"projectType": "5",
+            "name":"激光纹媚娘眉",
+            "price":2000,
+            "typeName":"wenmei"
+        },
+        {
+        	"projectType": "5",
+            "name":"激光纹柳叶眉",
+            "price":4000,
+            "typeName":"wenmei"
+        },
+        {
+        	"projectType": "5",
+            "name":"高精度数码纹柳叶眉",
+            "price":8000,
+            "typeName":"wenmei"
+        }
+    ],
+    [
+        {
+        	"projectType": "6",
+            "name":"玻尿酸垫下巴",
+            "price":8500,
+            "typeName":"fengxiaba"
+        },
+        {
+        	"projectType": "6",
+            "name":"线雕下巴",
+            "price":18500,
+            "typeName":"fengxiaba"
+        },
+        {
+        	"projectType": "6",
+            "name":"3D智能线雕下巴",
+            "price":28500,
+            "typeName":"fengxiaba"
+        }
+    ],
+    [
+        {
+        	"projectType": "7",
+            "name":"玻尿酸注射",
+            "price":45680,
+            "typeName":"fenge"
+        },
+        {
+        	"projectType": "7",
+            "name":"无痕水光针注射",
+            "price":78680,
+            "typeName":"fenge"
+        },
+        {
+        	"projectType": "7",
+            "name":"全3D脸提拉",
+            "price":90680,
+            "typeName":"fenge"
+        }
+    ],
+    [
+        {
+        	"projectType": "8",
+            "name":"玻尿酸苹果肌",
+            "price":23800,
+            "typeName":"pingguoji"
+        },
+        {
+        	"projectType": "8",
+            "name":"线雕丰苹果肌",
+            "price":54900,
+            "typeName":"pingguoji"
+        },
+        {
+        	"projectType": "8",
+            "name":"全3D塑苹果肌",
+            "price":89000,
+            "typeName":"pingguoji"
+        },
+        {
+        	"projectType": "8",
+            "name":"PDD",
+            "price":6666,
+            "typeName":"pingguoji"
+        }
+    ],
+    [
+        {
+        	"projectType": "9",
+            "name":"玻尿酸隆鼻",
+            "price":8700,
+            "typeName":"longbi"
+        },
+        {
+        	"projectType": "9",
+            "name":"韩国VX假体隆鼻",
+            "price":58000,
+            "typeName":"longbi"
+        },
+        {
+        	"projectType": "9",
+            "name":"线雕隆鼻",
+            "price":86998,
+            "typeName":"longbi"
+        }
+    ]
+]

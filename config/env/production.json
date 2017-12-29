@@ -1,0 +1,38 @@
+{
+  "db": "mongodb://localhost/azz",
+  "port": 4400,
+  "app": {
+      "name": "Azz"
+  },
+  "reportFaceUrl": "http://azz.leglear.com/azz/html/home_Physiognomy3.html",
+  "reportSkinUrl": "http://azz.leglear.com/skin/report.html",
+  "eyePc": "http://azz.leglear.com/azz/html/home_EyebrowTattoo5.html",
+  "reportStarUrl": "http://azz.leglear.com/azz/html/star3.html",
+  "reportStarUrlPc": "http://azz.leglear.com/azz/html/star3.html",
+  "online": false,
+  "SITE_ROOT_URL": "http://azz.leglear.com",
+  "myCoupon": "http://azz.leglear.com/azz/html/coupon.html",
+  "wechat": {
+    "appID": "wxe92fab20bfaf18dc",
+    "name":"arpt",
+    "appSecret": "d17dd23e7b5c6b9076ccb37a178b0aa9",
+    "client":"wechat",
+    "callbackURL": "http://azz.leglear.com/auth/wechat/callback",
+    "callbackURLRed": "http://azz.leglear.com/auth/wechatRed/callback",
+    "callbackURLCoupon": "http://azz.leglear.com/auth/wxcoupon/callback",
+    "scope": "snsapi_userinfo",
+    "state":false
+  },
+  "dateStart": "2017-08-25 00:00:00",
+  "dateEnd": "2017-08-27 23:59:59",
+  "weixin": {
+    "appId": "wxe92fab20bfaf18dc"
+    , "secret": "d17dd23e7b5c6b9076ccb37a178b0aa9"
+    , "mch_id": "1383387202"
+    , "apiKey": "e1afc06cde8f95a8459185093a05166c"
+    , "access_token": ""
+    , "expire": ""
+    , "new_user_redirect_url": ""
+    , "old_user_redirect_url": ""
+  }
+}
